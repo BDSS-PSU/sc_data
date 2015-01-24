@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 rm(list = ls())
-=======
->>>>>>> 7cd0fb5766c6c01abf5d9a032c7ea8ecc6e3fb08
 ### Merge CTC_2004-2011 files
 
 # Merge inflow
@@ -41,12 +38,3 @@ outflows <- do.call("rbind", out)
 # Merge them both and write on file
 out <- rbind(inflows, outflows)
 write.table(out, file = "data/ctc_04_11.csv", sep = ",", row.names = F)
-=======
-files <- list.files(indir)
-for(fname in flist) {
-  dat <- read.table(paste0(indir, fname), sep = ",", header = T)
-  
-  gsub()
-  dat$year <- 
-}
->>>>>>> 7cd0fb5766c6c01abf5d9a032c7ea8ecc6e3fb08
