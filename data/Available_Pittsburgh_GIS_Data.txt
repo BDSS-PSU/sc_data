@@ -1,0 +1,80 @@
+Available Pittsburgh GIS data (not uploaded to Github):
+Sam has downloaded, but also available at http://pittsburghpa.gov/dcp/gis/gis-data
+Converting to csv is simple, if GIS data isn't your thing
+
+Census:
+	Neighborhood boundaries
+	census Tracts
+		2000
+		2010
+	Census Block Groups
+		2000
+		2010
+	Census Blocks
+		2010
+City Divisions:
+	Fire Zones
+	Fire Divisions
+	Police Zones
+	Police Sectors
+	Planning Sectors
+	Public Works Divisions
+Environmental:
+	FEMA Floodplanes
+	Floodways
+	Greenways
+	Landslide Prone Areas
+	Parks
+	Park Trails
+	Riverfront Trails
+	Trees
+	Undermined Areas
+	Water Areas
+	Woodland Areas
+Land Management:
+	Allegheny County Block Index Grid
+	Allegheny County Map Index Grid
+	City Address Points
+	Foreclosure Data
+	Historic Sites
+	Neighborhoods
+	Parcels
+	Redevelopment Areas
+	Vacant Parcels
+	Zoning
+Locational Data:
+	Ballfields
+	Attractions
+	Hospitials
+	Libraries
+	Museums
+	City Pools
+	Recreation Centers
+	Schools
+	Senior Centers
+	Universities
+Planimetric Data:
+	Building Footprints
+	Parks
+	Railroads
+	Street Curbs
+	Water
+Ploitical Divisions:
+	City Border
+	City Boundary
+	City Council Districts 2000
+	City Council Districts 2012
+	Neighborhoods
+	Voting Districts
+	Wards
+Transportation Data:
+	Bus Shelters
+	Park Trails
+	Port Authority Bus Routes (County Wide)
+	Port Authority Bus Stops
+	Raillines - Single Line
+	Railroads - Double Line
+	Street Curbs
+	Street Centerline
+	Traffic Lights
+	Transit Stations
