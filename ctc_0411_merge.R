@@ -1,9 +1,9 @@
 rm(list = ls())
 ### Merge CTC_2004-2011 files
 
+
 # Merge inflow
 indir <- "data/CTC_Mig_2004_2011/county_in_flow/"
-<<<<<<< HEAD
 flist <- list.files(indir)
 out <- vector(mode = "list", length = length(flist))
 i <- 1
