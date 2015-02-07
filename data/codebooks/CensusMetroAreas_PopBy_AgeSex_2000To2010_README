@@ -1,0 +1,133 @@
+This file is Census metropolitan and micropolitan area data on population change, broken down by age and sex, form 2000-2010.
+There are over 900 metro and micropolitcan areas in this file.
+Metropolitcan areas are sorted by name, and following Yuma, AZ begins micropolitan areas, also sorted by name.
+
+The CBSA code also corresponds to the same areas in  
+RealGrossMetropolitanProduct.csv 
+and
+RealGMP_BySector.csv
+
+http://www.census.gov/population/metro/data/pop_data.html
+
+The fields, in order, are:
+
+CBSA code	
+Geographic area	
+area description
+2010 pop	
+2010 male pop	
+2010 male pop percent	
+2010 female pop
+2010 female pop percent	
+2010 sex ratio	
+2000 pop	
+2000 male pop	
+2000 male pop percent
+2000 female pop	
+2000 female pop percent	
+2000 sex ratio
+2010 median age	
+2010 under 18	
+2010 18 to 24
+2010 25 to 34	
+2010 35 to 44	
+2010 45 to 54
+2010 55 to 64
+2010 65 to 74
+2010 75 and over	
+2000 median age
+2000 under 18	
+2000 18 to 24	
+2000 25 to 34	
+2000 35 to 44
+2000 45 to 54	
+2000 55 to 64
+2000 65 to 74
+2000 75 and over	
+2010 under 18 percent	
+2010 18 to 24 percent	
+2010 25 to 34 percent
+2010 35 to 44 percent
+2010 45 to 54 percent	
+2010 55 to 64 percent	
+2010 65 to 74 percent	
+2010 75 and over percent
+2000 under 18 percent
+2000 18 to 24 percent
+2000 25 to 34 percent
+2000 35 to 44 percent	
+2000 45 to 54 percent	
+2000 55 to 64 percent	
+2000 65 to 74 percent	
+2000 75 and over percent	
+2010 local to national ratio under 18	
+2010 local to national ratio 18 to 24	
+2010 local to national ratio 25 to 34	
+2010 local to national ratio 35 to 44	
+2010 local to national ratio 45 to 54	
+2010 local to national ratio 55 to 64	
+2010 local to national ratio 65 to 74	
+2010 local to national ratio 75 and over	
+2000 local to national ratio under 18
+2000 local to national ratio 18 to 24	
+2000 local to national ratio 25 to 34	
+2000 local to national ratio 35 to 44	
+2000 local to national ratio 45 to 54	
+2000 local to national ratio 55 to 64	
+2000 local to national ratio 65 to 74	
+2000 local to national ratio 75 and over	
+pop change 2010-2000 median	
+pop change 2000 to 2010 under 18	
+pop change 2000 to 2010 18 to 24
+pop change 2000 to 2010 25 to 34
+pop change 2000 to 2010 35 to 44	
+pop change 2000 to 2010 45 to 54
+pop change 2000 to 2010 55 to 64	
+pop change 2000 to 2010 65 to 74
+pop change 2000 to 2010 75 and over	
+percent pop change 2000 to 2010 under 18
+percent pop change 2000 to 2010 18 to 24
+percent pop change 2000 to 2010 25 to 34	
+percent pop change 2000 to 2010 35 to 44	
+percent pop change 2000 to 2010 45 to 54
+percent pop change 2000 to 2010 55 to 64
+percent pop change 2000 to 2010 65 to 74
+percent pop change 2000 to 2010 75 and over
+
+
+Some notes on definitions:
+
+Sex ratio is calculated as the number of males per 100 females.
+
+Local to national ratio is calculated by dividing a group’s percentage 
+of an area’s total population by its percentage of the national population. 
+
+Note: Core based statistical areas (metropolitan and micropolitan statistical areas) defined
+by the Office of Management and Budget as of December 2009. Broomfield County, CO, 
+was formed from parts of Adams, Boulder, Jefferson, and Weld Counties, CO, on November 15, 2001, 
+and was coextensive with Broomfield city. For purposes of presenting data for metropolitan
+and micropolitan statistical areas, Broomfield is treated as if it were a county at the time of Census 2000.
+
+Source: U.S. Census Bureau, 2010 Census and Census 2000.
+
+Internet Release Date: September, 2012.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -3,7 +3,6 @@ rm(list = ls())
 
 # Merge inflow
 indir <- "data/CTC_Mig_2004_2011/county_in_flow/"
-<<<<<<< HEAD
 flist <- list.files(indir)
 out <- vector(mode = "list", length = length(flist))
 i <- 1
